@@ -69,7 +69,7 @@ src/
 │   ├── Contact.js       # Form handling component with client-side regex validations
 │   ├── Visitor.js       # Dashboard view: Debounced API data pipeline & filter controls
 │   └── NotFound.js      # Wildcard fallback view (Graceful 404 handler)
-
+```
 ---
 
 ## 🛠️ Local Installation & Setup
